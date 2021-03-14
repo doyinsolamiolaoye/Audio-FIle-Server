@@ -7,8 +7,12 @@
 
 ![](header.png)
 
-## Description and features
+## Description and Features
 A FastAPI Web API that simulates the behavior of an audio file server while using a SQL database.
+
+### Error Handling
+
+### Security
 
 
 ## Installation
