@@ -20,6 +20,20 @@ Audio file type can be one of the following:
 ### Application Security
 
 
+## Web API Endpoint Reference
+Web API Base URL: `https://`
+
+
+| Method     | Endpoint                | Usage                     | Reference                |
+| -----------| ----------------------- | ------------------------- |--------------------------|
+| |  |  |  |
+| |  |  |  |
+| |  |  |  |
+| |  |  |  |
+| |  |  |  |
+| -----------| ----------------------- | ------------------------- |--------------------------|
+
+
 ## Installation
 
 OS X & Linux:
