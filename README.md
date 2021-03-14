@@ -1,5 +1,5 @@
 # Audio FIle Server
-> WebAPI that simulates the behavior of an audio file server
+> WebAPI that simulates the behaviour of an audio file server
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
