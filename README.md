@@ -57,11 +57,11 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Doyinsolami OLAOYE – [LinkedIn](https://www.linkedin.com/in/doyinsolami-olaoye/) – doyinsolamiolaoye@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[GITHUB](https://github.com/doyinsolamiolaoye/)
 
 ## Contributing
 
