@@ -9,10 +9,14 @@
 
 ## Description and Features
 A FastAPI Web API that simulates the behavior of an audio file server while using a SQL database.
+Audio file type can be one of the following:
+1 –Song
+2 –Podcast
+3 –Audiobook
 
 ### Error Handling
 
-### Security
+### Application Security
 
 
 ## Installation
