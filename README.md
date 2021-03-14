@@ -25,10 +25,10 @@ Web API Base URL: [`https://`]()
 
 | Method     | Endpoint                | Usage                     | Reference                |
 | -----------| ----------------------- | ------------------------- |--------------------------|
-| GET | /api/v1/ | Return |  |
 | POST| /api/v1/ | Create |  |
-| PUT | /api/v1/ | Update |  |
 | DELETE| /api/v1/ | Delete |  |
+| PUT | /api/v1/ | Update |  |
+| GET | /api/v1/ | Return |  |
 
 ## Response Status Code
 
