@@ -8,19 +8,19 @@
 ![](header.png)
 
 ## Description and Features
-A FastAPI Web API that simulates the behavior of an audio file server while using a SQL database.
+A FastAPI Web API that simulates the behavior of an audio file server while using a SQL database. Based on simple REST principles, the  Web API endpoints return JSON metadata about audio files.
+
+Web API Party Introduction
 
 Audio file type can be one of the following:
 1. Song
 2. Podcast
 3. Audiobook
 
-### Error Handling
-
-### Application Security
-
 
 ## Web API Endpoint Reference
+The Web API is based on `REST`[http://en.wikipedia.org/wiki/Representational_state_transfer] principles. Data resources are accessed via standard HTTPS requests in UTF-8 format to an API endpoint. Where possible, Web API uses appropriate HTTP verbs for each action.
+
 Web API Base URL: `https://`
 
 
@@ -31,7 +31,21 @@ Web API Base URL: `https://`
 | |  |  |  |
 | |  |  |  |
 | |  |  |  |
-| -----------| ----------------------- | ------------------------- |--------------------------|
+| |  |  |  |
+
+
+## Response Status Code
+
+This Web API uses the following response status codes, as defined in the RFC 2616 and RFC 6585:
+
+| STATUS CODE | DESCRIPTION                |
+| ----------- | ---------------------------|
+| 200         | OK - The request has succeeded. The client can read the result of the request in the body and the headers of the response. |
+| 400 | Bad Request - The request could not be understood by the server due to malformed syntax.  |
+| 500 | Internal Server Error. |
+
+## Authentication
+All requests to this Web API require authentication. This is achieved by sending a valid OAuth access token in the request header. 
 
 
 ## Installation
