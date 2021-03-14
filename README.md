@@ -5,9 +5,11 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
+
+## Description and features
+A FastAPI Web API that simulates the behavior of anaudio file server while using a SQL database.
+
 
 ## Installation
 
