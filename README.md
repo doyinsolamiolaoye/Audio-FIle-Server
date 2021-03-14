@@ -8,7 +8,7 @@
 ![](header.png)
 
 ## Description and Features
-A FastAPI Web API that simulates the behavior of an audio file server while using a SQL database. Based on simple REST principles, the  Web API endpoints return JSON metadata about audio files.
+A Web API buikt with FASTAPI that simulates the behavior of an audio file server while using a SQL database. Based on simple REST principles, the  Web API endpoints return JSON metadata about audio files.
 
 
 Audio file type can be one of the following:
@@ -25,17 +25,14 @@ Web API Base URL: [`https://`]()
 
 | Method     | Endpoint                | Usage                     | Reference                |
 | -----------| ----------------------- | ------------------------- |--------------------------|
-| |  |  |  |
-| |  |  |  |
-| |  |  |  |
-| |  |  |  |
-| |  |  |  |
-| |  |  |  |
-
+| GET | /api/v1/ | Return |  |
+| POST| /api/v1/ | Create |  |
+| PUT | /api/v1/ | Update |  |
+| DELETE| /api/v1/ | Delete |  |
 
 ## Response Status Code
 
-This Web API uses the following response status codes, as defined in the RFC 2616 and RFC 6585:
+This Web API uses the following response status codes, as defined in the [RFC 2616](https://www.ietf.org/rfc/rfc2616.txt) and [RFC 6585](https://www.ietf.org/rfc/rfc6585.txt):
 
 | STATUS CODE | DESCRIPTION                |
 | ----------- | ---------------------------|
