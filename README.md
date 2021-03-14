@@ -10,7 +10,6 @@
 ## Description and Features
 A FastAPI Web API that simulates the behavior of an audio file server while using a SQL database. Based on simple REST principles, the  Web API endpoints return JSON metadata about audio files.
 
-Web API Party Introduction
 
 Audio file type can be one of the following:
 1. Song
@@ -21,7 +20,7 @@ Audio file type can be one of the following:
 ## Web API Endpoint Reference
 The Web API is based on [`REST`](http://en.wikipedia.org/wiki/Representational_state_transfer) principles. Data resources are accessed via standard HTTPS requests in UTF-8 format to an API endpoint. Where possible, Web API uses appropriate HTTP verbs for each action.
 
-Web API Base URL: `https://`
+Web API Base URL: [`https://`]()
 
 
 | Method     | Endpoint                | Usage                     | Reference                |
@@ -92,13 +91,6 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [GITHUB](https://github.com/doyinsolamiolaoye/)
 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
