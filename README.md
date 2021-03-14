@@ -1,12 +1,6 @@
 # Audio FIle Server
 > WebAPI that simulates the behaviour of an audio file server
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-![](header.png)
-
 ## Description and Features
 A Web API buikt with FASTAPI that simulates the behavior of an audio file server while using a SQL database. Based on simple REST principles, the  Web API endpoints return JSON metadata about audio files.
 
@@ -84,7 +78,7 @@ npm test
 
 Doyinsolami Samuel OLAOYE – [LinkedIn](https://www.linkedin.com/in/doyinsolami-olaoye/) | [Email](doyinsolamiolaoye@gmail.com) | [GITHUB](https://github.com/doyinsolamiolaoye/)
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+Distributed under the `MIT` license. See ``LICENSE`` for more information.
 
 
 <!-- Markdown link & img dfn's -->
