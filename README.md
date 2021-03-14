@@ -19,7 +19,7 @@ Audio file type can be one of the following:
 
 
 ## Web API Endpoint Reference
-The Web API is based on `REST`[http://en.wikipedia.org/wiki/Representational_state_transfer] principles. Data resources are accessed via standard HTTPS requests in UTF-8 format to an API endpoint. Where possible, Web API uses appropriate HTTP verbs for each action.
+The Web API is based on [`REST`](http://en.wikipedia.org/wiki/Representational_state_transfer) principles. Data resources are accessed via standard HTTPS requests in UTF-8 format to an API endpoint. Where possible, Web API uses appropriate HTTP verbs for each action.
 
 Web API Base URL: `https://`
 
@@ -40,7 +40,7 @@ This Web API uses the following response status codes, as defined in the RFC 261
 
 | STATUS CODE | DESCRIPTION                |
 | ----------- | ---------------------------|
-| 200         | OK - The request has succeeded. The client can read the result of the request in the body and the headers of the response. |
+| 200 | OK - The request has succeeded. The client can read the result of the request in the body and the headers of the response. |
 | 400 | Bad Request - The request could not be understood by the server due to malformed syntax.  |
 | 500 | Internal Server Error. |
 
