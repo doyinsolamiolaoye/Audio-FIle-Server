@@ -16,13 +16,14 @@ The Web API is based on [`REST`](http://en.wikipedia.org/wiki/Representational_s
 
 Web API Base URL: [`https://`]()
 
+Click on each Endpoint link to have full access to its full description
 
 | Method     | Endpoint                | Usage                     | Reference                |
 | -----------| ----------------------- | ------------------------- |--------------------------|
-| POST| /api/v1/ | Create |  |
-| DELETE| /api/v1/ | Delete |  |
-| PUT | /api/v1/ | Update |  |
-| GET | /api/v1/ | Return |  |
+| POST| [/v1/]() | Create |  |
+| DELETE| [/v1/]() | Delete |  |
+| PUT | [/v1/]() | Update |  |
+| GET | [/v1/]()| Return |  |
 
 ## Response Status Code
 
