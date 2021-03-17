@@ -16,7 +16,7 @@ The Web API is based on [`REST`](http://en.wikipedia.org/wiki/Representational_s
 
 Web API Base URL: [`https://`]()
 
-Click on each Endpoint link to read more
+**Click on each Endpoint link to read more**
 
 | Method     | Endpoint                | Usage                     | Reference                |
 | -----------| ----------------------- | ------------------------- |--------------------------|
