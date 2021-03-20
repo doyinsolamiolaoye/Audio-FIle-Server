@@ -2,7 +2,7 @@
 > WebAPI that simulates the behaviour of an audio file server
 
 ## Description and Features
-A Web API buikt with FASTAPI that simulates the behavior of an audio file server while using a SQL database. Based on simple REST principles, the  Web API endpoints return JSON metadata about audio files.
+A Web API built with FASTAPI that simulates the behavior of an audio file server while using a SQL database. Based on simple REST principles, the  Web API endpoints return JSON metadata about audio files.
 
 
 Audio file type can be one of the following:
@@ -35,7 +35,7 @@ This Web API uses the following response status codes, as defined in the [RFC 26
 | 400 | Bad Request - The request could not be understood by the server due to malformed syntax.  |
 | 500 | Internal Server Error. |
 
-## Authentication
+## Security and Authentication
 All requests to this Web API require authentication. This is achieved by sending a valid OAuth access token in the request header. 
 
 
